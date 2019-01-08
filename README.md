@@ -3,4 +3,4 @@
 2. Run npm install
 3. Run npm start
 
-https://smart-brain-xm.herokuapp.com/
+https://smart-brain.herokuapp.com/
